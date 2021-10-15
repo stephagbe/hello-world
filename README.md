@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository.
+This is the begining of greater things to come
